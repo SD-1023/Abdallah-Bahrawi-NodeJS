@@ -1,0 +1,1 @@
+Create a new directory for your project and navigate to it in your terminal.

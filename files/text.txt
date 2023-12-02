@@ -1,0 +1,4 @@
+Create a new directory for your project and navigate to it in your terminal.
+Initialize a Node.js project by running: npm init -y.
+Create a files directory and place some text files in it that you will use for testing.
+Use npm to install any needed package(s) that would support your logic.
